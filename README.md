@@ -28,8 +28,5 @@ I’m open to collaborating on:
 
 ## 📫 How to Reach Me
 - GitHub: https://github.com/husseinngobi  
-- Email: your-email@example.com *(replace this)*  
-- LinkedIn: your-linkedin-profile *(optional)*  
-
----
+- Email: husseinbarak5@gmail.com
 ⚡ *Building systems that solve real-world problems through code, intelligence, and innovation.*
