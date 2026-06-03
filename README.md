@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @husseinngobi
 
 ## 💻 About Me
-I’m a Computer Engineering student and developer passionate about building practical, real-world systems that combine software, hardware, and AI.
+I’m a Computer Engineer and developer passionate about building practical, real-world systems that combine software, hardware, and AI.
 
 ## 👀 Interests
 - Artificial Intelligence & Machine Learning  
