@@ -1,32 +1,42 @@
-# 👋 Hi, I’m @husseinngobi
+# Hi, I'm Hussein Ngobi
 
-## 💻 About Me
-I’m a Computer Engineer and developer passionate about building practical, real-world systems that combine software, hardware, and AI.
+## Computer Engineer | Software Developer | AI Enthusiast
 
-## 👀 Interests
-- Artificial Intelligence & Machine Learning  
-- Full-stack development (Flask, React, Flutter)  
-- Embedded systems (Arduino, Raspberry Pi)  
-- Computer vision & face recognition systems  
-- ERP systems and automation tools  
-- Building impactful government and enterprise solutions  
+I am a Computer Engineer focused on designing and building intelligent software systems that solve real-world challenges. My work spans artificial intelligence, full-stack development, embedded systems, and enterprise applications, with a strong interest in combining software, hardware, and automation to create impactful solutions.
 
-## 🌱 Currently Learning
-- Advanced AI integration (LLMs, local inference with Ollama)  
-- Scalable backend systems and APIs  
-- Cloud deployment (AWS, EC2)  
-- Secure authentication systems (JWT, OAuth)  
-- Mobile app development with Flutter  
+### Areas of Expertise
 
-## 💞️ Collaboration Interests
-I’m open to collaborating on:
-- AI-powered applications  
-- Security and surveillance systems  
-- Automation and ERP solutions  
-- Open-source developer tools  
-- Innovative civic-tech projects  
+* Artificial Intelligence and Machine Learning
+* Full-Stack Development (Flask, React, Flutter)
+* Computer Vision and Face Recognition Systems
+* Embedded Systems (Arduino, Raspberry Pi)
+* Enterprise Resource Planning (ERP) Systems
+* API Development and System Integration
+* Cloud Deployment and Infrastructure
+* Automation and Digital Transformation Solutions
 
-## 📫 How to Reach Me
-- GitHub: https://github.com/husseinngobi  
-- Email: husseinbarak5@gmail.com
-⚡ *Building systems that solve real-world problems through code, intelligence, and innovation.*
+### Featured Projects
+
+* AI-powered face recognition and surveillance systems
+* Enterprise resource planning (ERP) solutions
+* Educational technology platforms, including TotoLearn
+* Mobile and web applications for business and community impact
+* Intelligent automation and workflow management systems
+
+### Collaboration
+
+I am interested in collaborating with developers, startups, organizations, and institutions working on:
+
+* Artificial Intelligence applications
+* Educational Technology (EdTech)
+* Civic and Government Technology
+* Security and Monitoring Systems
+* Enterprise Software Solutions
+* Open-Source Innovation
+
+### Contact
+
+GitHub: github.com/husseinngobi
+Email: [husseinbarak5@gmail.com](mailto:husseinbarak5@gmail.com)
+
+Building technology that transforms ideas into practical solutions through innovation, intelligence, and engineering.
